@@ -3,14 +3,54 @@ owner: elfoche # Your GitHub organization or username, where this repository liv
 repo: monitoreo # The name of this repository
 
 sites:
-  - name: Google AR
-    url: https://www.google.com.ar
   - name: UNER - Web
     url: https://uner.edu.ar
   - name: UNER - Campus
     url: https://campus.uner.edu.ar
   - name: UNER - Diaguita
     url: https://diaguita.uner.edu.ar
+  - name: UNER - Guaraní
+    url: https://g3autogestion.uner.edu.ar/g3w3/
+  - name: UNER - Comdoc
+    url: http://comdoc.uader.edu.ar/comdocII/webtier/Signin
+  - name: UNER - GitLab
+    url: https://gitlab.uner.edu.ar/users/sign_in
+  - name: UNER - DDJJ
+    url: https://autogestion.uner.edu.ar/
+  - name: UNER - Turnero
+    url: https://turnosfirmadigital.uner.edu.ar/nuevo-turno
+ 
+  - name: UADER - Web
+    url: https://fcytcdelu.uader.edu.ar/
+  - name: UADER - Campus
+    url: https://campus.fcytcdelu.uader.edu.ar/
+  - name: UADER - Guaraní
+    url: http://guarani3w.uader.edu.ar/gestion/
+  
+  - name: UCU - Web
+    url: https://ucu.edu.ar
+  - name: UCU - Campus
+    url: https://moodle.ucu.edu.ar/
+  - name: UCU - SAO
+    url: https://alumnos.ucu.edu.ar/
+  - name: UCU - SIG
+    url: http://administracion.ucu.edu.ar/
+  - name: UCU - Koha
+    url: http://biblioteca.ucu.edu.ar/
+    
+  - name: MCU - Web
+    url: https://ucu.edu.ar
+  - name: MCU - Campus
+    url: https://moodle.ucu.edu.ar/
+  - name: MCU - Owncloud
+    url: https://cloud.cdeluruguay.gob.ar/login?redirect_url=/apps/dashboard/
+  - name: MCU - Proyectos
+    url: http://proyectos.cdeluruguay.gob.ar/login?back_url=http%3A%2F%2Fproyectos.cdeluruguay.gob.ar%2F
+  - name: MCU - GitLab
+    url: https://git.cdeluruguay.gob.ar/users/sign_in
+ 
+  - name: Google AR
+    url: https://www.google.com.ar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
