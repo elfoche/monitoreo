@@ -18,15 +18,13 @@ sites:
   - name: UNER - DDJJ
     url: https://autogestion.uner.edu.ar/
   - name: UNER - Turnero
-    url: https://turnosfirmadigital.uner.edu.ar/nuevo-turno
- 
+    url: https://turnosfirmadigital.uner.edu.ar/nuevo-turno 
   - name: UADER - Web
     url: https://fcytcdelu.uader.edu.ar/
   - name: UADER - Campus
     url: https://campus.fcytcdelu.uader.edu.ar/
   - name: UADER - Guaraní
-    url: http://guarani3w.uader.edu.ar/gestion/
-  
+    url: http://guarani3w.uader.edu.ar/gestion/  
   - name: UCU - Web
     url: https://ucu.edu.ar
   - name: UCU - Campus
@@ -36,8 +34,7 @@ sites:
   - name: UCU - SIG
     url: http://administracion.ucu.edu.ar/
   - name: UCU - Koha
-    url: http://biblioteca.ucu.edu.ar/
-    
+    url: http://biblioteca.ucu.edu.ar/  
   - name: MCU - Web
     url: https://cdeluruguay.gob.ar/
   - name: MCU - GTH
@@ -46,15 +43,18 @@ sites:
     url: http://produccion.cdeluruguay.gob.ar/GAF/forms/login.jsp    
   - name: MCU - GRH
     url: http://produccion.cdeluruguay.gob.ar/GRH/forms/login.jsp
-  - name: MCU - GTA
-    url: http://produccion.cdeluruguay.gob.ar/GAT/forms/login.jsp    
+  - name: MCU - GAT
+    url: http://produccion.cdeluruguay.gob.ar/GAT/forms/login.jsp
+  - name: MCU - GTH
+    url: http://produccion.cdeluruguay.gob.ar/GTH/forms/login.jsp
+  - name: MCU - STS
+    url: http://produccion.cdeluruguay.gob.ar/STS/forms/login.jsp
   - name: MCU - Owncloud
     url: https://cloud.cdeluruguay.gob.ar/login?redirect_url=/apps/dashboard/
   - name: MCU - Proyectos
     url: http://proyectos.cdeluruguay.gob.ar/login?back_url=http%3A%2F%2Fproyectos.cdeluruguay.gob.ar%2F
   - name: MCU - GitLab
     url: https://git.cdeluruguay.gob.ar/users/sign_in
- 
   - name: Google AR
     url: https://www.google.com.ar
 
