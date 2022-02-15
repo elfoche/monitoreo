@@ -1,15 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: elfoche # Your GitHub organization or username, where this repository lives
+repo: monitoreo # The name of this repository
 
 sites:
   - name: Google AR
     url: https://www.google.com.ar
   - name: UNER - Web
     url: https://uner.edu.ar
-  - name: Campus
+  - name: UNER - Campus
     url: https://campus.uner.edu.ar
-  - name: Diaguita
+  - name: UNER - Diaguita
     url: https://diaguita.uner.edu.ar
 
 status-website:
