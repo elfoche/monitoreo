@@ -12,7 +12,7 @@ sites:
   - name: UNER - Guaraní
     url: https://g3autogestion.uner.edu.ar/g3w3/
   - name: UNER - Comdoc
-    url: http://comdoc.uader.edu.ar/comdocII/webtier/Signin
+    url: http://jboss.comdoc.uner.edu.ar/comdocII/webtier/Signin
   - name: UNER - GitLab
     url: https://gitlab.uner.edu.ar/users/sign_in
   - name: UNER - DDJJ
