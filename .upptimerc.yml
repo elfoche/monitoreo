@@ -39,9 +39,15 @@ sites:
     url: http://biblioteca.ucu.edu.ar/
     
   - name: MCU - Web
-    url: https://ucu.edu.ar
-  - name: MCU - Campus
-    url: https://moodle.ucu.edu.ar/
+    url: https://cdeluruguay.gob.ar/
+  - name: MCU - GTH
+    url: http://produccion.cdeluruguay.gob.ar/GTH/forms/login.jsp
+  - name: MCU - GAF
+    url: http://produccion.cdeluruguay.gob.ar/GAF/forms/login.jsp    
+  - name: MCU - GRH
+    url: http://produccion.cdeluruguay.gob.ar/GRH/forms/login.jsp
+  - name: MCU - GTA
+    url: http://produccion.cdeluruguay.gob.ar/GAT/forms/login.jsp    
   - name: MCU - Owncloud
     url: https://cloud.cdeluruguay.gob.ar/login?redirect_url=/apps/dashboard/
   - name: MCU - Proyectos
