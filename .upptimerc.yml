@@ -19,6 +19,10 @@ sites:
     url: https://autogestion.uner.edu.ar/
   - name: UNER - Turnero
     url: https://turnosfirmadigital.uner.edu.ar/nuevo-turno 
+  - name: UNER - Redmine
+    url: https://redmine.uner.edu.ar/ 
+  - name: UNER - Jitsi
+    url: https://jitsi.uner.edu.ar/    
   - name: UADER - Web
     url: https://fcytcdelu.uader.edu.ar/
   - name: UADER - Campus
