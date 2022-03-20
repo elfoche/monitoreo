@@ -1,7 +1,7 @@
 url: http://administracion.ucu.edu.ar/
-status: up
-code: 200
-responseTime: 729
-lastUpdated: 2022-03-19T23:14:34.433Z
+status: down
+code: 502
+responseTime: 18878
+lastUpdated: 2022-03-20T21:45:09.687Z
 startTime: Tue Feb 15 2022 12:20:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
