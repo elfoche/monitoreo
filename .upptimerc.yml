@@ -38,7 +38,9 @@ sites:
   - name: UCU - SIG
     url: http://administracion.ucu.edu.ar/
   - name: UCU - Koha
-    url: http://biblioteca.ucu.edu.ar/  
+    url: http://biblioteca.ucu.edu.ar/
+  - name: UCU - Maraton
+    url: https://maraton.ucu.edu.ar/  
   - name: MCU - Web
     url: https://cdeluruguay.gob.ar/
   - name: MCU - GTH
