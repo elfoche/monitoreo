@@ -7,6 +7,26 @@ sites:
     url: https://uner.edu.ar
   - name: UNER - Campus
     url: https://campus.uner.edu.ar
+  - name: UNER - Campus FCA
+    url: https://campus.uner.edu.ar/fca/
+  - name: UNER - Campus FCAL
+    url: https://campus.uner.edu.ar/fcal/
+  - name: UNER - Campus FCAD
+    url: https://campus.uner.edu.ar/fcad/
+  - name: UNER - Campus FBRO
+    url: https://campus.uner.edu.ar/fbro/
+  - name: UNER - Campus FCEDU 
+    url: https://campus.uner.edu.ar/fcedu/
+  - name: UNER - Campus FCS
+    url: https://campus.uner.edu.ar/fcs/
+  - name: UNER - Campus FCECO
+    url: https://campus.uner.edu.ar/fceco/
+  - name: UNER - Campus FIUNER
+    url: https://campus.uner.edu.ar/fiuner/
+  - name: UNER - Campus FTS
+    url: https://campus.uner.edu.ar/fts/
+  - name: UNER - Campus RECTORADO
+    url: https://campus.uner.edu.ar/rectorado/    
   - name: UNER - Diaguita
     url: https://diaguita.uner.edu.ar
   - name: UNER - Guaraní
