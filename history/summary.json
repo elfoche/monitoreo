@@ -80,19 +80,19 @@
     "url": "https://campus.uner.edu.ar/fcal/",
     "icon": "https://favicons.githubusercontent.com/campus.uner.edu.ar",
     "slug": "uner-campus-fcal",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 432,
-    "timeDay": 350,
-    "timeWeek": 414,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 430,
+    "timeDay": 362,
+    "timeWeek": 411,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2022-08-26": 2
+      "2022-08-26": 32
     }
   },
   {
