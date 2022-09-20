@@ -48,7 +48,9 @@ sites:
   - name: UADER - Campus
     url: https://campus.fcytcdelu.uader.edu.ar/
   - name: UADER - Guaraní
-    url: http://guarani3w.uader.edu.ar/gestion/  
+    url: http://guarani3w.uader.edu.ar/gestion/
+  - name: UADER - Bases
+    url: http://201.212.243.160:8080/login?next=%2F
   - name: UCU - Web
     url: https://ucu.edu.ar
   - name: UCU - Campus
