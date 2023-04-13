@@ -31,8 +31,6 @@ sites:
     url: https://diaguita.uner.edu.ar
   - name: UNER - Guaraní
     url: https://g3autogestion.uner.edu.ar/g3w3/
-  - name: UNER - Comdoc
-    url: http://jboss.comdoc.uner.edu.ar/comdocII/webtier/Signin
   - name: UNER - GitLab
     url: https://gitlab.uner.edu.ar/users/sign_in
   - name: UNER - DDJJ
@@ -40,9 +38,7 @@ sites:
   - name: UNER - Turnero
     url: https://turnosfirmadigital.uner.edu.ar/nuevo-turno 
   - name: UNER - Redmine
-    url: https://redmine.uner.edu.ar/ 
-  - name: UNER - Jitsi
-    url: https://jitsi.uner.edu.ar/    
+    url: https://redmine.uner.edu.ar/  
   - name: UADER - Web
     url: https://fcytcdelu.uader.edu.ar/
   - name: UADER - Campus
@@ -50,19 +46,23 @@ sites:
   - name: UADER - Guaraní
     url: http://guarani3w.uader.edu.ar/gestion/
   - name: UADER - Bases
-    url: http://186.127.142.72:8080/login?next=%2F
+    url: https://pg.fcytcdelu.uader.edu.ar/
   - name: UCU - Web
     url: https://ucu.edu.ar
   - name: UCU - Campus
     url: https://moodle.ucu.edu.ar/
   - name: UCU - SAO
-    url: https://alumnos.ucu.edu.ar/
+    url: https://alumnos.ucu.edu.ar/autogestion.php
   - name: UCU - SIG
     url: http://administracion.ucu.edu.ar/
   - name: UCU - Koha
     url: http://biblioteca.ucu.edu.ar/
   - name: UCU - Maraton
-    url: https://maraton.ucu.edu.ar/  
+    url: https://maraton.ucu.edu.ar/
+  - name: UCU - Acceso IS
+    url: https://accesois.ucu.edu.ar/
+  - name: UCU - Acceso FIBER
+    url: https://accesofiber.ucu.edu.ar/
   - name: MCU - Web
     url: https://cdeluruguay.gob.ar/
   - name: MCU - GTH
