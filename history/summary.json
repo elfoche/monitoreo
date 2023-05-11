@@ -47,7 +47,7 @@
     "timeDay": 0,
     "timeWeek": 1129,
     "timeMonth": 1278,
-    "timeYear": 1806,
+    "timeYear": 1808,
     "dailyMinutesDown": {
       "2023-05-05": 63,
       "2023-04-05": 48,
@@ -377,7 +377,7 @@
     "timeDay": 0,
     "timeWeek": 1168,
     "timeMonth": 1265,
-    "timeYear": 1400,
+    "timeYear": 1401,
     "dailyMinutesDown": {
       "2023-03-03": 53,
       "2023-01-25": 26,
@@ -405,7 +405,7 @@
     "timeDay": 0,
     "timeWeek": 1016,
     "timeMonth": 1233,
-    "timeYear": 1248,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2023-04-12": 64,
       "2023-03-29": 53,
@@ -512,7 +512,7 @@
     "timeDay": 861,
     "timeWeek": 898,
     "timeMonth": 965,
-    "timeYear": 1009,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2023-01-25": 31,
       "2022-12-29": 208,
@@ -567,18 +567,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/redmine.uner.edu.ar.ico",
     "slug": "uner-redmine",
     "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "12.03%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "80.45%",
-    "uptimeYear": "97.76%",
+    "uptime": "97.29%",
+    "uptimeDay": "4.70%",
+    "uptimeWeek": "85.34%",
+    "uptimeMonth": "80.20%",
+    "uptimeYear": "97.73%",
     "time": 1208,
     "timeDay": 0,
     "timeWeek": 1084,
     "timeMonth": 1087,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-05-10": 1267,
+      "2023-05-11": 60,
+      "2023-05-10": 1312,
       "2023-05-05": 105,
       "2023-04-26": 766,
       "2023-04-25": 488,
@@ -617,7 +618,7 @@
     "timeDay": 9139,
     "timeWeek": 1818,
     "timeMonth": 1642,
-    "timeYear": 2695,
+    "timeYear": 2697,
     "dailyMinutesDown": {
       "2023-05-10": 137,
       "2023-05-09": 498,
@@ -664,8 +665,7 @@
       "2022-06-07": 19,
       "2022-05-24": 116,
       "2022-05-20": 126,
-      "2022-05-17": 32,
-      "2022-05-11": 23
+      "2022-05-17": 32
     }
   },
   {
@@ -683,7 +683,7 @@
     "timeDay": 9483,
     "timeWeek": 2541,
     "timeMonth": 1636,
-    "timeYear": 1626,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2023-05-10": 137,
       "2023-04-10": 1040,
@@ -728,7 +728,7 @@
     "timeDay": 461,
     "timeWeek": 722,
     "timeMonth": 791,
-    "timeYear": 946,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2023-05-10": 136,
       "2023-03-29": 32,
@@ -758,11 +758,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pg.fcytcdelu.uader.edu.ar.ico",
     "slug": "uader-bases",
     "status": "up",
-    "uptime": "75.19%",
+    "uptime": "75.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.00%",
-    "uptimeMonth": "88.43%",
-    "uptimeYear": "75.19%",
+    "uptimeMonth": "88.67%",
+    "uptimeYear": "75.20%",
     "time": 766,
     "timeDay": 9825,
     "timeWeek": 1978,
@@ -861,7 +861,7 @@
     "timeDay": 0,
     "timeWeek": 2390,
     "timeMonth": 3090,
-    "timeYear": 3354,
+    "timeYear": 3357,
     "dailyMinutesDown": {
       "2023-04-14": 61,
       "2023-04-05": 206,
@@ -923,7 +923,7 @@
     "timeDay": 0,
     "timeWeek": 939,
     "timeMonth": 1014,
-    "timeYear": 2226,
+    "timeYear": 2228,
     "dailyMinutesDown": {
       "2023-03-02": 24,
       "2023-02-27": 65,
@@ -966,7 +966,7 @@
     "timeDay": 0,
     "timeWeek": 839,
     "timeMonth": 836,
-    "timeYear": 1806,
+    "timeYear": 1808,
     "dailyMinutesDown": {}
   },
   {
@@ -984,7 +984,7 @@
     "timeDay": 0,
     "timeWeek": 517,
     "timeMonth": 715,
-    "timeYear": 1682,
+    "timeYear": 1685,
     "dailyMinutesDown": {
       "2023-04-14": 60,
       "2023-03-22": 162,
@@ -1021,7 +1021,7 @@
     "timeDay": 0,
     "timeWeek": 2491,
     "timeMonth": 2837,
-    "timeYear": 4015,
+    "timeYear": 4018,
     "dailyMinutesDown": {
       "2023-05-07": 17,
       "2023-04-14": 60,
@@ -1058,8 +1058,7 @@
       "2022-06-05": 17,
       "2022-05-25": 365,
       "2022-05-21": 46,
-      "2022-05-19": 59,
-      "2022-05-11": 83
+      "2022-05-19": 59
     }
   },
   {
@@ -1077,7 +1076,7 @@
     "timeDay": 0,
     "timeWeek": 788,
     "timeMonth": 1411,
-    "timeYear": 2006,
+    "timeYear": 2009,
     "dailyMinutesDown": {
       "2023-05-03": 32,
       "2023-04-14": 58,
@@ -1143,7 +1142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-10": 1395,
+      "2023-05-11": 61,
+      "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
@@ -1188,7 +1188,7 @@
     "timeDay": 0,
     "timeWeek": 2231,
     "timeMonth": 1827,
-    "timeYear": 5404,
+    "timeYear": 5414,
     "dailyMinutesDown": {
       "2023-01-25": 41,
       "2022-05-26": 814,
@@ -1210,7 +1210,7 @@
     "timeDay": 0,
     "timeWeek": 557,
     "timeMonth": 716,
-    "timeYear": 2566,
+    "timeYear": 2571,
     "dailyMinutesDown": {
       "2023-04-14": 57,
       "2023-03-22": 159,
@@ -1396,7 +1396,7 @@
     "timeDay": 0,
     "timeWeek": 557,
     "timeMonth": 716,
-    "timeYear": 2566,
+    "timeYear": 2571,
     "dailyMinutesDown": {
       "2023-04-14": 57,
       "2023-03-22": 159,
@@ -1435,7 +1435,7 @@
     "status": "up",
     "uptime": "94.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.71%",
+    "uptimeWeek": "32.75%",
     "uptimeMonth": "43.71%",
     "uptimeYear": "94.57%",
     "time": 249,
@@ -1501,7 +1501,7 @@
     "timeDay": 1121,
     "timeWeek": 1541,
     "timeMonth": 1736,
-    "timeYear": 4802,
+    "timeYear": 4808,
     "dailyMinutesDown": {
       "2023-04-26": 18,
       "2023-04-14": 54,
@@ -1562,7 +1562,7 @@
     "timeDay": 0,
     "timeWeek": 916,
     "timeMonth": 1376,
-    "timeYear": 4125,
+    "timeYear": 4124,
     "dailyMinutesDown": {
       "2023-04-14": 54,
       "2023-03-22": 138,
@@ -1631,7 +1631,7 @@
     "timeDay": 0,
     "timeWeek": 1277,
     "timeMonth": 1676,
-    "timeYear": 4365,
+    "timeYear": 4373,
     "dailyMinutesDown": {
       "2023-03-27": 681,
       "2023-03-26": 1440,
