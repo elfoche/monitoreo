@@ -395,10 +395,10 @@
     "url": "https://g3autogestion.uner.edu.ar/g3w3/",
     "icon": "https://icons.duckduckgo.com/ip3/g3autogestion.uner.edu.ar.ico",
     "slug": "uner-guarani",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "88.93%",
-    "uptimeWeek": "98.42%",
+    "uptimeDay": "88.84%",
+    "uptimeWeek": "98.41%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.31%",
     "time": 1236,
@@ -407,6 +407,7 @@
     "timeMonth": 1735,
     "timeYear": 1329,
     "dailyMinutesDown": {
+      "2023-07-18": 1,
       "2023-07-17": 159,
       "2023-06-21": 25,
       "2023-06-08": 18,
@@ -507,8 +508,7 @@
       "2022-08-04": 23,
       "2022-08-02": 32,
       "2022-07-29": 39,
-      "2022-07-28": 14,
-      "2022-07-18": 22
+      "2022-07-28": 14
     }
   },
   {
@@ -1101,7 +1101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 1435,
+      "2023-07-18": 3,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
