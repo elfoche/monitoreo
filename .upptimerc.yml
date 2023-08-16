@@ -52,7 +52,7 @@ sites:
   - name: UCU - Campus
     url: https://moodle.ucu.edu.ar/
   - name: UCU - SAO
-    url: https://alumnos.ucu.edu.ar/autogestion.php
+    url: https://alumnos.ucu.edu.ar/
   - name: UCU - SIG
     url: http://administracion.ucu.edu.ar/
   - name: UCU - Koha
