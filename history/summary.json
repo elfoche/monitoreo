@@ -1073,7 +1073,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-22": 1201,
+      "2023-08-22": 1211,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
@@ -1492,7 +1492,7 @@
     "time": 4283,
     "timeDay": 6296,
     "timeWeek": 3508,
-    "timeMonth": 3448,
+    "timeMonth": 3490,
     "timeYear": 4179,
     "dailyMinutesDown": {
       "2023-08-05": 17,
@@ -1650,19 +1650,19 @@
     "url": "https://www.google.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ar.ico",
     "slug": "google-ar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 336,
-    "timeWeek": 242,
-    "timeMonth": 228,
-    "timeYear": 198,
+    "timeDay": 396,
+    "timeWeek": 267,
+    "timeMonth": 235,
+    "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-08-22": 2,
+      "2023-08-22": 10,
       "2022-10-31": 35
     }
   }
