@@ -1,7 +1,7 @@
 url: https://diaguita.uner.edu.ar
-status: up
-code: 200
-responseTime: 1278
-lastUpdated: 2023-09-02T23:10:40.098Z
+status: down
+code: 502
+responseTime: 1174
+lastUpdated: 2023-09-03T05:40:29.291Z
 startTime: 2022-02-15T11:29:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
