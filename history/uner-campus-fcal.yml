@@ -1,7 +1,7 @@
 url: https://campus.uner.edu.ar/fcal/
-status: up
-code: 200
-responseTime: 362
-lastUpdated: 2024-01-30T23:12:30.682Z
+status: down
+code: 503
+responseTime: 205
+lastUpdated: 2024-01-31T15:56:29.438Z
 startTime: 2022-08-09T14:39:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
