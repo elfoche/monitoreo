@@ -1,7 +1,7 @@
 url: https://campus.uner.edu.ar/fcedu/
-status: up
-code: 200
-responseTime: 358
-lastUpdated: 2024-01-31T23:12:07.806Z
+status: down
+code: 503
+responseTime: 187
+lastUpdated: 2024-02-01T02:30:29.063Z
 startTime: 2022-08-09T14:39:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
