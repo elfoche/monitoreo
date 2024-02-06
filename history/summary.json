@@ -607,18 +607,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pg.fcytcdelu.uader.edu.ar.ico",
     "slug": "uader-bases",
     "status": "down",
-    "uptime": "81.71%",
+    "uptime": "81.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.22%",
+    "uptimeYear": "77.21%",
     "time": 1048,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2024-02-05": 1419,
+      "2024-02-06": 53,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -992,7 +993,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 1420,
+      "2024-02-06": 53,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -1300,7 +1302,7 @@
     "slug": "mcu-web",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "52.95%",
+    "uptimeDay": "58.08%",
     "uptimeWeek": "83.76%",
     "uptimeMonth": "94.16%",
     "uptimeYear": "99.46%",
@@ -1325,18 +1327,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/produccion.cdeluruguay.gob.ar.ico",
     "slug": "mcu-gth",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "88.52%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.49%",
+    "uptime": "98.79%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "99.47%",
     "time": 1437,
     "timeDay": 849,
     "timeWeek": 1362,
     "timeMonth": 881,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2024-02-05": 69,
+      "2024-02-06": 53,
+      "2024-02-05": 90,
       "2024-02-03": 1088,
       "2024-01-25": 131,
       "2024-01-05": 28,
@@ -1353,8 +1356,7 @@
       "2023-05-15": 20,
       "2023-04-14": 57,
       "2023-03-22": 159,
-      "2023-02-13": 21,
-      "2023-02-06": 134
+      "2023-02-13": 21
     }
   },
   {
@@ -1364,17 +1366,18 @@
     "slug": "mcu-gaf",
     "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "88.76%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "99.14%",
     "time": 236,
     "timeDay": 207,
     "timeWeek": 217,
     "timeMonth": 190,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-02-05": 47,
+      "2024-02-06": 54,
+      "2024-02-05": 67,
       "2024-02-03": 1087,
       "2024-01-25": 497,
       "2024-01-24": 1440,
@@ -1393,8 +1396,7 @@
       "2023-05-15": 25,
       "2023-04-14": 57,
       "2023-03-22": 158,
-      "2023-02-13": 19,
-      "2023-02-06": 133
+      "2023-02-13": 19
     }
   },
   {
@@ -1404,17 +1406,18 @@
     "slug": "mcu-grh",
     "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "88.60%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "90.51%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "99.54%",
     "time": 408,
     "timeDay": 207,
     "timeWeek": 240,
     "timeMonth": 198,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-02-05": 63,
+      "2024-02-06": 54,
+      "2024-02-05": 83,
       "2024-02-03": 1087,
       "2024-01-25": 134,
       "2024-01-05": 27,
@@ -1431,8 +1434,7 @@
       "2023-04-14": 56,
       "2023-03-22": 157,
       "2023-02-14": 15,
-      "2023-02-13": 18,
-      "2023-02-06": 133
+      "2023-02-13": 18
     }
   },
   {
@@ -1441,18 +1443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/produccion.cdeluruguay.gob.ar.ico",
     "slug": "mcu-gat",
     "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "88.54%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "99.30%",
+    "uptime": "98.72%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "87.80%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "99.28%",
     "time": 217,
     "timeDay": 210,
     "timeWeek": 212,
     "timeMonth": 222,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-02-05": 69,
+      "2024-02-06": 54,
+      "2024-02-05": 90,
       "2024-02-03": 1086,
       "2024-01-25": 128,
       "2024-01-05": 26,
@@ -1473,8 +1476,7 @@
       "2023-03-22": 155,
       "2023-03-02": 25,
       "2023-02-13": 18,
-      "2023-02-08": 17,
-      "2023-02-06": 132
+      "2023-02-08": 17
     }
   },
   {
@@ -1483,18 +1485,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/produccion.cdeluruguay.gob.ar.ico",
     "slug": "mcu-gth",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "88.52%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.49%",
+    "uptime": "98.79%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "99.47%",
     "time": 1437,
     "timeDay": 849,
     "timeWeek": 1362,
     "timeMonth": 881,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2024-02-05": 70,
+      "2024-02-06": 54,
+      "2024-02-05": 90,
       "2024-02-03": 1088,
       "2024-01-25": 131,
       "2024-01-05": 28,
@@ -1511,8 +1514,7 @@
       "2023-05-15": 20,
       "2023-04-14": 57,
       "2023-03-22": 159,
-      "2023-02-13": 21,
-      "2023-02-06": 134
+      "2023-02-13": 21
     }
   },
   {
@@ -1521,18 +1523,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/produccion.cdeluruguay.gob.ar.ico",
     "slug": "mcu-sts",
     "status": "down",
-    "uptime": "96.55%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "88.55%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "94.80%",
+    "uptime": "96.54%",
+    "uptimeDay": "90.04%",
+    "uptimeWeek": "87.81%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "94.78%",
     "time": 268,
     "timeDay": 210,
     "timeWeek": 223,
     "timeMonth": 197,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-02-05": 70,
+      "2024-02-06": 54,
+      "2024-02-05": 90,
       "2024-02-03": 1085,
       "2024-01-25": 125,
       "2024-01-05": 25,
@@ -1566,8 +1569,7 @@
       "2023-04-20": 255,
       "2023-04-14": 55,
       "2023-03-22": 139,
-      "2023-02-13": 17,
-      "2023-02-06": 131
+      "2023-02-13": 17
     }
   },
   {
@@ -1644,8 +1646,7 @@
       "2023-03-28": 18,
       "2023-03-22": 139,
       "2023-02-16": 18,
-      "2023-02-15": 18,
-      "2023-02-06": 131
+      "2023-02-15": 18
     }
   },
   {
@@ -1675,8 +1676,7 @@
       "2023-09-05": 21,
       "2023-05-24": 209,
       "2023-04-14": 54,
-      "2023-03-22": 138,
-      "2023-02-06": 131
+      "2023-03-22": 138
     }
   },
   {
