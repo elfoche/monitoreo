@@ -1,7 +1,7 @@
 url: http://produccion.cdeluruguay.gob.ar/GTH/forms/login.jsp
-status: down
-code: 404
-responseTime: 467
-lastUpdated: 2024-02-21T17:01:24.353Z
+status: up
+code: 200
+responseTime: 4907
+lastUpdated: 2024-02-21T17:41:48.987Z
 startTime: 2022-02-15T12:28:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
