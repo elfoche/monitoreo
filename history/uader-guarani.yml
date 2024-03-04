@@ -1,7 +1,7 @@
 url: http://guarani3w.uader.edu.ar/gestion/
-status: up
-code: 200
-responseTime: 980
-lastUpdated: 2024-03-03T23:11:05.791Z
+status: down
+code: 503
+responseTime: 12679
+lastUpdated: 2024-03-04T03:36:24.971Z
 startTime: 2022-02-15T12:20:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
