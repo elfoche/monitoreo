@@ -1,7 +1,7 @@
 url: http://produccion.cdeluruguay.gob.ar/GAT/forms/login.jsp
-status: down
-code: 404
-responseTime: 155
-lastUpdated: 2024-05-07T17:42:41.029Z
+status: up
+code: 200
+responseTime: 179
+lastUpdated: 2024-05-07T17:48:44.556Z
 startTime: 2022-02-15T12:40:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
