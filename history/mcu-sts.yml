@@ -1,7 +1,7 @@
 url: http://produccion.cdeluruguay.gob.ar/STS/forms/login.jsp
-status: down
-code: 523
-responseTime: 3116
-lastUpdated: 2024-06-07T14:58:15.820Z
+status: up
+code: 200
+responseTime: 373
+lastUpdated: 2024-06-07T15:45:23.012Z
 startTime: 2022-02-15T12:40:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
