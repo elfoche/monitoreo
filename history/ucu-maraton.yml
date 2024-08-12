@@ -1,7 +1,7 @@
 url: https://maraton.ucu.edu.ar/
-status: up
-code: 200
-responseTime: 892
-lastUpdated: 2024-08-11T23:14:45.352Z
+status: down
+code: 502
+responseTime: 19166
+lastUpdated: 2024-08-12T16:11:43.592Z
 startTime: 2022-03-28T12:52:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
