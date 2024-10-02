@@ -27,8 +27,6 @@ sites:
     url: https://campus.uner.edu.ar/fts/
   - name: UNER - Campus RECTORADO
     url: https://campus.uner.edu.ar/rectorado/    
-  - name: UNER - Diaguita
-    url: https://diaguita.uner.edu.ar
   - name: UNER - Guaraní
     url: https://g3autogestion.uner.edu.ar/g3w3/
   - name: UNER - GitLab
@@ -57,8 +55,6 @@ sites:
     url: http://administracion.ucu.edu.ar/
   - name: UCU - Koha
     url: http://biblioteca.ucu.edu.ar/
-  - name: UCU - Maraton
-    url: https://maraton.ucu.edu.ar/
   - name: UCU - Acceso IS
     url: https://accesois.ucu.edu.ar/
   - name: UCU - Acceso FIBER
@@ -83,6 +79,10 @@ sites:
     url: http://proyectos.cdeluruguay.gob.ar/login?back_url=http%3A%2F%2Fproyectos.cdeluruguay.gob.ar%2F
   - name: MCU - GitLab
     url: https://git.cdeluruguay.gob.ar/users/sign_in
+  - name: MCU - PH
+    url: https://phservers.com.ar/
+  - name: MCU - Mail
+    url: https://mail.correo.cdeluruguay.gob.ar/
   - name: Google AR
     url: https://www.google.com.ar
 
