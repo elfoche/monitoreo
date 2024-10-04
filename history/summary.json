@@ -555,7 +555,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pg.fcytcdelu.uader.edu.ar.ico",
     "slug": "uader-bases",
     "status": "up",
-    "uptime": "86.74%",
+    "uptime": "86.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.83%",
@@ -763,18 +763,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/biblioteca.ucu.edu.ar.ico",
     "slug": "ucu-koha",
     "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "99.85%",
+    "uptime": "98.49%",
+    "uptimeDay": "92.07%",
     "uptimeWeek": "52.57%",
-    "uptimeMonth": "87.82%",
-    "uptimeYear": "96.59%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "96.57%",
     "time": 3132,
     "timeDay": 0,
     "timeWeek": 2528,
     "timeMonth": 2573,
     "timeYear": 3140,
     "dailyMinutesDown": {
-      "2024-10-03": 2,
+      "2024-10-04": 70,
+      "2024-10-03": 44,
       "2024-10-01": 833,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
@@ -892,7 +893,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-03": 1398,
+      "2024-10-04": 70,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -1255,8 +1257,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   },
   {
