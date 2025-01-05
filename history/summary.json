@@ -13,7 +13,7 @@
     "time": 1433,
     "timeDay": 0,
     "timeWeek": 1240,
-    "timeMonth": 1688,
+    "timeMonth": 1700,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2024-12-19": 35,
@@ -46,7 +46,7 @@
     "time": 1636,
     "timeDay": 0,
     "timeWeek": 1307,
-    "timeMonth": 1511,
+    "timeMonth": 1519,
     "timeYear": 1565,
     "dailyMinutesDown": {
       "2024-12-17": 18,
@@ -123,7 +123,7 @@
     "time": 371,
     "timeDay": 0,
     "timeWeek": 214,
-    "timeMonth": 219,
+    "timeMonth": 220,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2024-12-09": 20,
@@ -192,7 +192,7 @@
     "time": 339,
     "timeDay": 0,
     "timeWeek": 283,
-    "timeMonth": 280,
+    "timeMonth": 282,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2024-12-09": 18,
@@ -215,7 +215,7 @@
     "time": 355,
     "timeDay": 0,
     "timeWeek": 217,
-    "timeMonth": 224,
+    "timeMonth": 225,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2024-12-09": 18,
@@ -259,7 +259,7 @@
     "time": 361,
     "timeDay": 0,
     "timeWeek": 244,
-    "timeMonth": 245,
+    "timeMonth": 246,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2024-12-09": 17,
@@ -304,7 +304,7 @@
     "time": 1423,
     "timeDay": 0,
     "timeWeek": 1177,
-    "timeMonth": 1679,
+    "timeMonth": 1584,
     "timeYear": 1566,
     "dailyMinutesDown": {
       "2025-01-02": 690,
@@ -358,7 +358,7 @@
     "time": 991,
     "timeDay": 0,
     "timeWeek": 1237,
-    "timeMonth": 1154,
+    "timeMonth": 1153,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2024-12-09": 15,
@@ -381,7 +381,7 @@
     "time": 1003,
     "timeDay": 1026,
     "timeWeek": 1025,
-    "timeMonth": 1155,
+    "timeMonth": 1161,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2024-12-03": 17,
@@ -403,7 +403,7 @@
     "time": 989,
     "timeDay": 0,
     "timeWeek": 900,
-    "timeMonth": 1181,
+    "timeMonth": 1189,
     "timeYear": 993,
     "dailyMinutesDown": {
       "2024-12-03": 16,
@@ -425,7 +425,7 @@
     "time": 1032,
     "timeDay": 0,
     "timeWeek": 969,
-    "timeMonth": 1174,
+    "timeMonth": 1180,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2024-12-02": 42,
@@ -449,7 +449,7 @@
     "time": 1511,
     "timeDay": 0,
     "timeWeek": 1483,
-    "timeMonth": 1506,
+    "timeMonth": 1510,
     "timeYear": 1497,
     "dailyMinutesDown": {
       "2024-12-19": 68,
@@ -501,7 +501,7 @@
     "time": 1815,
     "timeDay": 0,
     "timeWeek": 1554,
-    "timeMonth": 1701,
+    "timeMonth": 1705,
     "timeYear": 1870,
     "dailyMinutesDown": {
       "2024-12-27": 306,
@@ -557,7 +557,7 @@
     "time": 1030,
     "timeDay": 0,
     "timeWeek": 925,
-    "timeMonth": 1009,
+    "timeMonth": 1013,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-01-04": 238,
@@ -592,7 +592,7 @@
     "time": 1384,
     "timeDay": 0,
     "timeWeek": 1198,
-    "timeMonth": 1368,
+    "timeMonth": 1382,
     "timeYear": 1406,
     "dailyMinutesDown": {
       "2024-12-19": 67,
@@ -671,17 +671,17 @@
     "slug": "ucu-web",
     "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.29%",
     "time": 2528,
     "timeDay": 11701,
     "timeWeek": 7739,
-    "timeMonth": 3963,
+    "timeMonth": 4022,
     "timeYear": 2625,
     "dailyMinutesDown": {
-      "2025-01-05": 72,
+      "2025-01-05": 84,
       "2024-12-28": 544,
       "2024-12-15": 433,
       "2024-12-04": 119,
@@ -725,7 +725,7 @@
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 949,
-    "timeMonth": 962,
+    "timeMonth": 964,
     "timeYear": 1134,
     "dailyMinutesDown": {
       "2024-12-10": 30,
@@ -754,7 +754,7 @@
     "time": 883,
     "timeDay": 0,
     "timeWeek": 832,
-    "timeMonth": 808,
+    "timeMonth": 814,
     "timeYear": 861,
     "dailyMinutesDown": {}
   },
@@ -772,7 +772,7 @@
     "time": 869,
     "timeDay": 10485,
     "timeWeek": 1679,
-    "timeMonth": 990,
+    "timeMonth": 1005,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2025-01-05": 16,
@@ -808,7 +808,7 @@
     "slug": "ucu-koha",
     "status": "down",
     "uptime": "97.07%",
-    "uptimeDay": "28.97%",
+    "uptimeDay": "28.07%",
     "uptimeWeek": "29.14%",
     "uptimeMonth": "65.99%",
     "uptimeYear": "91.54%",
@@ -818,7 +818,7 @@
     "timeMonth": 2954,
     "timeYear": 2873,
     "dailyMinutesDown": {
-      "2025-01-05": 1023,
+      "2025-01-05": 1036,
       "2025-01-04": 670,
       "2025-01-03": 375,
       "2025-01-02": 710,
@@ -915,19 +915,19 @@
     "url": "https://accesois.ucu.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/accesois.ucu.edu.ar.ico",
     "slug": "ucu-acceso-is",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "92.38%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "97.55%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "99.30%",
     "time": 3257,
-    "timeDay": 23935,
-    "timeWeek": 11628,
-    "timeMonth": 5368,
-    "timeYear": 3314,
+    "timeDay": 19611,
+    "timeWeek": 10912,
+    "timeMonth": 5366,
+    "timeYear": 3311,
     "dailyMinutesDown": {
-      "2025-01-05": 110,
+      "2025-01-05": 121,
       "2024-12-28": 539,
       "2024-12-15": 427,
       "2024-12-04": 116,
@@ -970,7 +970,7 @@
     "timeMonth": 0,
     "timeYear": 2333,
     "dailyMinutesDown": {
-      "2025-01-05": 1396,
+      "2025-01-05": 1409,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -1350,7 +1350,7 @@
     "time": 1514,
     "timeDay": 0,
     "timeWeek": 1057,
-    "timeMonth": 1023,
+    "timeMonth": 1021,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2024-11-24": 68,
@@ -1433,7 +1433,7 @@
     "time": 687,
     "timeDay": 0,
     "timeWeek": 297,
-    "timeMonth": 321,
+    "timeMonth": 322,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2025-01-02": 24,
@@ -1488,7 +1488,7 @@
     "time": 225,
     "timeDay": 0,
     "timeWeek": 160,
-    "timeMonth": 163,
+    "timeMonth": 164,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-01-02": 35,
@@ -1539,7 +1539,7 @@
     "time": 243,
     "timeDay": 0,
     "timeWeek": 1714,
-    "timeMonth": 515,
+    "timeMonth": 527,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-01-02": 23,
@@ -1642,7 +1642,7 @@
     "time": 687,
     "timeDay": 0,
     "timeWeek": 297,
-    "timeMonth": 321,
+    "timeMonth": 322,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2025-01-02": 24,
@@ -1697,7 +1697,7 @@
     "time": 232,
     "timeDay": 0,
     "timeWeek": 170,
-    "timeMonth": 166,
+    "timeMonth": 167,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-01-02": 21,
@@ -1746,7 +1746,7 @@
     "time": 3014,
     "timeDay": 2112,
     "timeWeek": 4047,
-    "timeMonth": 3905,
+    "timeMonth": 3991,
     "timeYear": 2921,
     "dailyMinutesDown": {
       "2024-12-29": 19,
@@ -1820,7 +1820,7 @@
     "time": 1645,
     "timeDay": 0,
     "timeWeek": 2510,
-    "timeMonth": 1445,
+    "timeMonth": 1463,
     "timeYear": 1555,
     "dailyMinutesDown": {
       "2024-12-05": 16,
@@ -1863,7 +1863,7 @@
     "time": 1820,
     "timeDay": 0,
     "timeWeek": 1822,
-    "timeMonth": 1558,
+    "timeMonth": 1577,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2024-11-27": 672,
@@ -1908,7 +1908,7 @@
     "time": 2397,
     "timeDay": 0,
     "timeWeek": 2321,
-    "timeMonth": 2295,
+    "timeMonth": 2296,
     "timeYear": 2397,
     "dailyMinutesDown": {
       "2024-11-20": 18,
@@ -1930,7 +1930,7 @@
     "time": 1832,
     "timeDay": 0,
     "timeWeek": 1730,
-    "timeMonth": 1795,
+    "timeMonth": 1792,
     "timeYear": 1832,
     "dailyMinutesDown": {
       "2024-11-20": 18,
@@ -1952,7 +1952,7 @@
     "time": 210,
     "timeDay": 0,
     "timeWeek": 226,
-    "timeMonth": 180,
+    "timeMonth": 183,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-05-01": 39
