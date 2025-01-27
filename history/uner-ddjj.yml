@@ -1,7 +1,7 @@
 url: https://autogestion.uner.edu.ar/
-status: up
-code: 200
-responseTime: 832
-lastUpdated: 2025-01-26T23:12:55.179Z
+status: down
+code: 502
+responseTime: 943
+lastUpdated: 2025-01-27T05:27:33.686Z
 startTime: 2022-02-15T12:20:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
