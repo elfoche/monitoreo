@@ -299,7 +299,7 @@
     "timeDay": 1124,
     "timeWeek": 1072,
     "timeMonth": 1222,
-    "timeYear": 1536,
+    "timeYear": 1539,
     "dailyMinutesDown": {
       "2025-01-02": 690,
       "2024-12-17": 17,
@@ -348,7 +348,7 @@
     "timeDay": 1025,
     "timeWeek": 1640,
     "timeMonth": 1439,
-    "timeYear": 1060,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2024-12-09": 15,
       "2024-12-02": 66
@@ -765,19 +765,19 @@
     "url": "http://biblioteca.ucu.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/biblioteca.ucu.edu.ar.ico",
     "slug": "ucu-koha",
-    "status": "up",
+    "status": "down",
     "uptime": "96.88%",
-    "uptimeDay": "5.72%",
-    "uptimeWeek": "43.53%",
-    "uptimeMonth": "47.72%",
-    "uptimeYear": "90.68%",
-    "time": 2967,
-    "timeDay": 3274,
-    "timeWeek": 3144,
+    "uptimeDay": "8.10%",
+    "uptimeWeek": "43.55%",
+    "uptimeMonth": "47.71%",
+    "uptimeYear": "90.69%",
+    "time": 2968,
+    "timeDay": 3937,
+    "timeWeek": 3172,
     "timeMonth": 3102,
     "timeYear": 2917,
     "dailyMinutesDown": {
-      "2025-02-09": 631,
+      "2025-02-09": 633,
       "2025-02-08": 1236,
       "2025-02-07": 542,
       "2025-02-06": 492,
@@ -855,7 +855,7 @@
       "2024-10-11": 1195,
       "2024-10-10": 345,
       "2024-10-09": 605,
-      "2024-10-08": 90
+      "2024-10-08": 36
     }
   },
   {
@@ -921,7 +921,7 @@
     "timeMonth": 0,
     "timeYear": 2333,
     "dailyMinutesDown": {
-      "2025-02-09": 632,
+      "2025-02-09": 749,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -1297,7 +1297,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.41%",
     "time": 1371,
     "timeDay": 910,
     "timeWeek": 970,
@@ -1749,7 +1749,7 @@
     "time": 1559,
     "timeDay": 950,
     "timeWeek": 1095,
-    "timeMonth": 1180,
+    "timeMonth": 993,
     "timeYear": 1561,
     "dailyMinutesDown": {
       "2025-01-24": 712,
