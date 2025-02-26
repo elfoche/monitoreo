@@ -1,7 +1,7 @@
 url: https://campus.uner.edu.ar/rectorado/
-status: down
-code: 503
-responseTime: 210
-lastUpdated: 2025-02-26T10:50:49.224Z
+status: up
+code: 200
+responseTime: 275
+lastUpdated: 2025-02-26T12:53:00.579Z
 startTime: 2022-08-09T14:39:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
