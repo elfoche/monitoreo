@@ -1,7 +1,7 @@
 url: https://campus.uner.edu.ar/fbro/
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2025-02-26T23:14:50.042Z
+status: down
+code: 503
+responseTime: 283
+lastUpdated: 2025-02-27T10:50:47.047Z
 startTime: 2022-08-09T14:39:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
