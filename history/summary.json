@@ -762,7 +762,7 @@
     "slug": "ucu-koha",
     "status": "up",
     "uptime": "97.07%",
-    "uptimeDay": "37.28%",
+    "uptimeDay": "38.50%",
     "uptimeWeek": "26.88%",
     "uptimeMonth": "44.38%",
     "uptimeYear": "91.06%",
@@ -899,7 +899,7 @@
     "timeMonth": 11274,
     "timeYear": 5909,
     "dailyMinutesDown": {
-      "2025-03-06": 56,
+      "2025-03-06": 74,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
