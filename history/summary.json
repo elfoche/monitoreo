@@ -183,7 +183,7 @@
     "slug": "uner-campus-fcs",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "90.02%",
+    "uptimeDay": "91.99%",
     "uptimeWeek": "96.13%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.91%",
@@ -761,11 +761,11 @@
     "url": "http://biblioteca.ucu.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/biblioteca.ucu.edu.ar.ico",
     "slug": "ucu-koha",
-    "status": "up",
+    "status": "down",
     "uptime": "97.20%",
-    "uptimeDay": "41.47%",
-    "uptimeWeek": "26.10%",
-    "uptimeMonth": "44.15%",
+    "uptimeDay": "42.23%",
+    "uptimeWeek": "26.08%",
+    "uptimeMonth": "44.14%",
     "uptimeYear": "91.45%",
     "time": 3066,
     "timeDay": 3611,
@@ -773,7 +773,7 @@
     "timeMonth": 3636,
     "timeYear": 3060,
     "dailyMinutesDown": {
-      "2025-03-06": 647,
+      "2025-03-06": 649,
       "2025-03-05": 905,
       "2025-03-04": 1401,
       "2025-03-03": 1334,
@@ -827,8 +827,7 @@
       "2025-01-14": 657,
       "2025-01-13": 678,
       "2025-01-12": 1440,
-      "2025-01-11": 1108,
-      "2025-01-10": 26
+      "2025-01-11": 1108
     }
   },
   {
@@ -896,7 +895,7 @@
     "timeMonth": 11274,
     "timeYear": 5909,
     "dailyMinutesDown": {
-      "2025-03-06": 886,
+      "2025-03-06": 914,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
