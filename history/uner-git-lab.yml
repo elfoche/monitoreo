@@ -1,7 +1,7 @@
 url: https://gitlab.uner.edu.ar/users/sign_in
-status: down
-code: 500
-responseTime: 4443
-lastUpdated: 2025-03-26T13:05:08.451Z
+status: up
+code: 200
+responseTime: 980
+lastUpdated: 2025-03-26T13:33:36.677Z
 startTime: 2022-02-15T12:20:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
