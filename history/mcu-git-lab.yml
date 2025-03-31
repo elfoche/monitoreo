@@ -1,7 +1,7 @@
 url: https://git.cdeluruguay.gob.ar/users/sign_in
-status: down
-code: 502
-responseTime: 978
-lastUpdated: 2025-03-31T02:45:24.968Z
+status: up
+code: 200
+responseTime: 2464
+lastUpdated: 2025-03-31T11:27:57.581Z
 startTime: 2022-02-15T12:20:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
