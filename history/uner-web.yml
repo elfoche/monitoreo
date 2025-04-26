@@ -1,7 +1,7 @@
 url: https://uner.edu.ar
-status: up
-code: 200
-responseTime: 1386
-lastUpdated: 2025-04-25T23:14:58.960Z
+status: down
+code: 500
+responseTime: 11640
+lastUpdated: 2025-04-26T06:54:09.949Z
 startTime: 2022-02-15T11:24:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
