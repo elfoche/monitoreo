@@ -794,18 +794,19 @@
     "url": "http://biblioteca.ucu.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/biblioteca.ucu.edu.ar.ico",
     "slug": "ucu-koha",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "67.20%",
-    "uptimeWeek": "66.42%",
-    "uptimeMonth": "66.71%",
-    "uptimeYear": "91.68%",
+    "status": "down",
+    "uptime": "97.53%",
+    "uptimeDay": "67.07%",
+    "uptimeWeek": "66.65%",
+    "uptimeMonth": "66.76%",
+    "uptimeYear": "91.94%",
     "time": 2961,
-    "timeDay": 3025,
-    "timeWeek": 2833,
-    "timeMonth": 2882,
+    "timeDay": 2997,
+    "timeWeek": 2830,
+    "timeMonth": 2881,
     "timeYear": 2977,
     "dailyMinutesDown": {
+      "2025-05-24": 2,
       "2025-05-23": 472,
       "2025-05-22": 469,
       "2025-05-21": 477,
@@ -886,8 +887,7 @@
       "2025-03-07": 671,
       "2025-03-06": 790,
       "2025-03-05": 905,
-      "2025-03-04": 1401,
-      "2025-03-03": 698
+      "2025-03-04": 767
     }
   },
   {
@@ -959,7 +959,7 @@
     "timeMonth": 0,
     "timeYear": 5909,
     "dailyMinutesDown": {
-      "2025-05-24": 79,
+      "2025-05-24": 168,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
