@@ -1,7 +1,7 @@
 url: http://biblioteca.ucu.edu.ar/
-status: down
-code: 502
-responseTime: 18885
-lastUpdated: 2025-06-29T01:40:03.064Z
+status: up
+code: 200
+responseTime: 2883
+lastUpdated: 2025-06-29T10:41:23.070Z
 startTime: 2022-02-15T12:20:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
