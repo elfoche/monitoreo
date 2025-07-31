@@ -1,7 +1,7 @@
 url: https://g3autogestion.uner.edu.ar/g3w3/
-status: up
-code: 200
-responseTime: 1125
-lastUpdated: 2025-07-30T23:18:10.807Z
+status: down
+code: 502
+responseTime: 899
+lastUpdated: 2025-07-31T15:41:06.920Z
 startTime: 2022-02-15T12:20:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
