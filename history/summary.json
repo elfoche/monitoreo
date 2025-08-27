@@ -360,8 +360,7 @@
       "2024-10-30": 111,
       "2024-10-23": 22,
       "2024-09-24": 78,
-      "2024-09-17": 33,
-      "2024-08-27": 35
+      "2024-09-17": 33
     }
   },
   {
@@ -482,9 +481,9 @@
     "slug": "uader-web",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.09%",
     "time": 1544,
     "timeDay": 1053,
@@ -492,7 +491,6 @@
     "timeMonth": 1469,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-08-26": 13,
       "2025-08-16": 34,
       "2025-08-06": 49,
       "2025-07-27": 428,
@@ -658,10 +656,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pg.fcytcdelu.uader.edu.ar.ico",
     "slug": "uader-bases",
     "status": "up",
-    "uptime": "90.61%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "98.77%",
+    "uptime": "90.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "99.15%",
     "time": 1413,
     "timeDay": 909,
@@ -669,7 +667,6 @@
     "timeMonth": 1287,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2025-08-26": 12,
       "2025-08-22": 20,
       "2025-08-16": 33,
       "2025-08-06": 23,
@@ -1060,7 +1057,8 @@
     "timeMonth": 0,
     "timeYear": 5909,
     "dailyMinutesDown": {
-      "2025-08-26": 1411,
+      "2025-08-27": 78,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -1422,8 +1420,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -1461,7 +1458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/produccion.cdeluruguay.gob.ar.ico",
     "slug": "mcu-gth",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.64%",
@@ -1623,7 +1620,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/produccion.cdeluruguay.gob.ar.ico",
     "slug": "mcu-gth",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.64%",
