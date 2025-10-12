@@ -1,7 +1,7 @@
 url: https://cloud.cdeluruguay.gob.ar/login?redirect_url=/apps/dashboard/
-status: up
-code: 200
-responseTime: 3574
-lastUpdated: 2025-10-11T23:15:33.130Z
+status: down
+code: 502
+responseTime: 15039
+lastUpdated: 2025-10-12T17:47:04.029Z
 startTime: 2022-02-15T12:20:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
