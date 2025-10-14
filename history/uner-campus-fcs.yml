@@ -1,7 +1,7 @@
 url: https://campus.uner.edu.ar/fcs/
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2025-10-13T23:14:07.028Z
+status: down
+code: 502
+responseTime: 1768
+lastUpdated: 2025-10-14T11:27:33.227Z
 startTime: 2022-08-09T14:39:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
