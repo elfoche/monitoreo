@@ -1,7 +1,7 @@
 url: https://redmine.uner.edu.ar/
-status: down
-code: 500
-responseTime: 21947
-lastUpdated: 2025-10-14T11:28:15.027Z
+status: up
+code: 200
+responseTime: 4825
+lastUpdated: 2025-10-14T11:33:26.391Z
 startTime: 2022-02-15T12:47:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
