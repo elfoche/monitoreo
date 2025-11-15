@@ -1,7 +1,7 @@
 url: https://phservers.com.ar/
-status: up
-code: 200
-responseTime: 9260
-lastUpdated: 2025-11-14T23:16:23.621Z
+status: down
+code: 502
+responseTime: 23560
+lastUpdated: 2025-11-15T06:14:43.677Z
 startTime: 2024-10-02T22:08:50.762Z
 generator: Upptime <https://github.com/upptime/upptime>
