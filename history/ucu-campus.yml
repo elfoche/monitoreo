@@ -1,7 +1,7 @@
 url: https://moodle.ucu.edu.ar/
-status: up
-code: 200
-responseTime: 1041
-lastUpdated: 2025-11-15T23:16:00.135Z
+status: down
+code: 503
+responseTime: 1105
+lastUpdated: 2025-11-16T06:56:03.470Z
 startTime: 2022-02-15T12:20:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
