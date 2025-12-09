@@ -1,7 +1,7 @@
 url: https://www.google.com.ar
-status: up
-code: 200
-responseTime: 325
-lastUpdated: 2025-12-08T23:17:54.523Z
+status: down
+code: 429
+responseTime: 588
+lastUpdated: 2025-12-09T06:29:28.852Z
 startTime: 2022-02-15T11:24:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
