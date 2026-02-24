@@ -1,7 +1,7 @@
 url: http://produccion.cdeluruguay.gob.ar/GAF/forms/login.jsp
-status: down
-code: 404
-responseTime: 181
-lastUpdated: 2026-02-23T23:33:00.223Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2026-02-24T03:28:11.246Z
 startTime: 2022-02-15T12:28:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
