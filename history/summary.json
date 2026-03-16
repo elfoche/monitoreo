@@ -1074,17 +1074,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesois.ucu.edu.ar.ico",
     "slug": "ucu-acceso-is",
     "status": "down",
-    "uptime": "83.26%",
+    "uptime": "83.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "52.11%",
+    "uptimeYear": "52.08%",
     "time": 2978,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2562,
     "dailyMinutesDown": {
+      "2026-03-16": 132,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -1289,6 +1290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-03-16": 132,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -1652,8 +1654,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   },
   {
