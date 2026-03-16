@@ -511,19 +511,19 @@
     "url": "https://redmine.uner.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.uner.edu.ar.ico",
     "slug": "uner-redmine",
-    "status": "down",
+    "status": "up",
     "uptime": "96.52%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "91.09%",
     "time": 1372,
-    "timeDay": 1023,
-    "timeWeek": 1059,
-    "timeMonth": 1082,
-    "timeYear": 1390,
+    "timeDay": 1134,
+    "timeWeek": 1083,
+    "timeMonth": 1087,
+    "timeYear": 1389,
     "dailyMinutesDown": {
-      "2026-03-15": 2,
+      "2026-03-15": 18,
       "2026-02-09": 398,
       "2026-01-15": 896,
       "2026-01-14": 1440,
@@ -1085,7 +1085,7 @@
     "timeMonth": 0,
     "timeYear": 2562,
     "dailyMinutesDown": {
-      "2026-03-15": 1422,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -1289,7 +1289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-15": 1422,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -2054,8 +2054,7 @@
       "2025-04-13": 129,
       "2025-04-06": 123,
       "2025-03-30": 111,
-      "2025-03-23": 109,
-      "2025-03-16": 100
+      "2025-03-23": 109
     }
   },
   {
