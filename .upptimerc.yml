@@ -36,7 +36,9 @@ sites:
   - name: UNER - Turnero
     url: https://turnosfirmadigital.uner.edu.ar/nuevo-turno 
   - name: UNER - Redmine
-    url: https://redmine.uner.edu.ar/  
+    url: https://redmine.uner.edu.ar/
+  - name: UNER - Medios
+    url: https://medios.uner.edu.ar/
   - name: UADER - Web
     url: https://fcytcdelu.uader.edu.ar/
   - name: UADER - Campus
