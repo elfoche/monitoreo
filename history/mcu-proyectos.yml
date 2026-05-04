@@ -1,7 +1,7 @@
 url: http://proyectos.cdeluruguay.gob.ar/login?back_url=http%3A%2F%2Fproyectos.cdeluruguay.gob.ar%2F
-status: up
-code: 200
-responseTime: 2094
-lastUpdated: 2026-05-03T23:42:14.167Z
+status: down
+code: 502
+responseTime: 8127
+lastUpdated: 2026-05-04T05:54:18.391Z
 startTime: 2022-02-15T12:20:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
