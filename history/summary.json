@@ -46,10 +46,10 @@
     "slug": "uner-campus",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.69%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.68%",
     "time": 1956,
     "timeDay": 1851,
     "timeWeek": 2032,
@@ -62,7 +62,7 @@
       "2025-12-15": 20,
       "2026-02-09": 167,
       "2026-08-25": 249,
-      "2026-09-30": 29
+      "2026-09-30": 89
     }
   },
   {
@@ -72,10 +72,10 @@
     "slug": "uner-campus-fca",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.69%",
     "time": 630,
     "timeDay": 1442,
     "timeWeek": 1971,
@@ -87,7 +87,7 @@
       "2025-11-18": 851,
       "2026-02-09": 167,
       "2026-08-25": 88,
-      "2026-09-30": 23
+      "2026-09-30": 83
     }
   },
   {
@@ -96,11 +96,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/campus.uner.edu.ar.ico",
     "slug": "uner-campus-fcal",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.67%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.46%",
     "time": 993,
     "timeDay": 2287,
     "timeWeek": 1734,
@@ -115,7 +115,7 @@
       "2026-05-05": 369,
       "2026-05-14": 787,
       "2026-08-25": 85,
-      "2026-09-30": 18
+      "2026-09-30": 79
     }
   },
   {
@@ -125,10 +125,10 @@
     "slug": "uner-campus-fcad",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.69%",
     "time": 674,
     "timeDay": 1331,
     "timeWeek": 1419,
@@ -141,7 +141,7 @@
       "2025-12-17": 111,
       "2026-02-09": 166,
       "2026-08-25": 52,
-      "2026-09-30": 13
+      "2026-09-30": 74
     }
   },
   {
@@ -150,11 +150,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/campus.uner.edu.ar.ico",
     "slug": "uner-campus-fbro",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.69%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.69%",
     "time": 598,
     "timeDay": 2808,
     "timeWeek": 1799,
@@ -167,7 +167,7 @@
       "2026-02-09": 166,
       "2026-07-02": 115,
       "2026-08-25": 26,
-      "2026-09-30": 9
+      "2026-09-30": 69
     }
   },
   {
@@ -180,7 +180,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.63%",
+    "uptimeYear": "89.64%",
     "time": 742,
     "timeDay": 1263,
     "timeWeek": 870,
@@ -864,7 +864,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.56%",
+    "uptimeYear": "64.55%",
     "time": 1105,
     "timeDay": 0,
     "timeWeek": 0,
@@ -881,7 +881,7 @@
       "2026-03-02": 196,
       "2026-03-15": 24,
       "2026-05-16": 578,
-      "2026-09-30": 177,
+      "2026-09-30": 237,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -1019,9 +1019,9 @@
     "slug": "ucu-koha",
     "status": "down",
     "uptime": "97.98%",
-    "uptimeDay": "53.03%",
-    "uptimeWeek": "81.82%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "48.86%",
+    "uptimeWeek": "81.22%",
+    "uptimeMonth": "95.68%",
     "uptimeYear": "95.52%",
     "time": 2635,
     "timeDay": 556,
@@ -1069,7 +1069,7 @@
       "2026-08-21": 1105,
       "2026-09-24": 911,
       "2026-09-23": 245,
-      "2026-09-30": 177,
+      "2026-09-30": 237,
       "2026-09-29": 500
     }
   },
@@ -1090,7 +1090,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 177,
+      "2026-09-30": 237,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -1474,7 +1474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 177,
+      "2026-09-30": 237,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
