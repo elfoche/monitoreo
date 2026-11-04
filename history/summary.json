@@ -14,7 +14,7 @@
     "timeDay": 3834,
     "timeWeek": 2634,
     "timeMonth": 3061,
-    "timeYear": 3287,
+    "timeYear": 3289,
     "dailyMinutesDown": {
       "2025-11-17": 80,
       "2025-11-18": 778,
@@ -50,7 +50,7 @@
     "timeDay": 3503,
     "timeWeek": 2317,
     "timeMonth": 2359,
-    "timeYear": 2048,
+    "timeYear": 2040,
     "dailyMinutesDown": {
       "2025-11-17": 113,
       "2025-11-19": 217,
@@ -76,7 +76,7 @@
     "timeDay": 939,
     "timeWeek": 7508,
     "timeMonth": 2956,
-    "timeYear": 994,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2025-11-17": 119,
       "2025-11-19": 334,
@@ -101,7 +101,7 @@
     "timeDay": 1819,
     "timeWeek": 1393,
     "timeMonth": 2006,
-    "timeYear": 1320,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2025-11-17": 110,
       "2025-11-19": 314,
@@ -129,7 +129,7 @@
     "timeDay": 3033,
     "timeWeek": 1920,
     "timeMonth": 1680,
-    "timeYear": 938,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2025-11-17": 117,
       "2025-11-19": 314,
@@ -155,7 +155,7 @@
     "timeDay": 1190,
     "timeWeek": 1128,
     "timeMonth": 1562,
-    "timeYear": 850,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2025-11-17": 117,
       "2025-11-19": 334,
@@ -181,7 +181,7 @@
     "timeDay": 1402,
     "timeWeek": 1864,
     "timeMonth": 1945,
-    "timeYear": 966,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2025-11-17": 73,
       "2025-11-19": 291,
@@ -227,7 +227,7 @@
     "timeDay": 722,
     "timeWeek": 3302,
     "timeMonth": 1961,
-    "timeYear": 957,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2025-11-17": 72,
       "2025-11-19": 291,
@@ -251,7 +251,7 @@
     "timeDay": 750,
     "timeWeek": 929,
     "timeMonth": 1340,
-    "timeYear": 974,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2025-11-17": 106,
       "2025-11-19": 314,
@@ -278,7 +278,7 @@
     "timeDay": 1168,
     "timeWeek": 1076,
     "timeMonth": 1333,
-    "timeYear": 731,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-11-17": 74,
       "2025-11-19": 260,
@@ -301,7 +301,7 @@
     "timeDay": 2496,
     "timeWeek": 1047,
     "timeMonth": 1348,
-    "timeYear": 702,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-11-17": 67,
       "2025-11-19": 260,
@@ -327,7 +327,7 @@
     "timeDay": 930,
     "timeWeek": 988,
     "timeMonth": 1145,
-    "timeYear": 807,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-11-17": 67,
       "2025-11-19": 218,
@@ -351,7 +351,7 @@
     "timeDay": 3617,
     "timeWeek": 1758,
     "timeMonth": 1753,
-    "timeYear": 1580,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2025-11-12": 234,
       "2025-11-17": 71,
@@ -384,7 +384,7 @@
     "timeDay": 2567,
     "timeWeek": 1656,
     "timeMonth": 1657,
-    "timeYear": 1504,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2025-11-17": 105,
       "2025-11-19": 91,
@@ -409,23 +409,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/autogestion.uner.edu.ar.ico",
     "slug": "uner-ddjj",
     "status": "down",
-    "uptime": "98.27%",
+    "uptime": "98.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.26%",
-    "uptimeYear": "92.65%",
+    "uptimeMonth": "16.70%",
+    "uptimeYear": "92.61%",
     "time": 1446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1168,
-    "timeYear": 1431,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2025-11-17": 104,
       "2025-11-19": 716,
       "2025-11-18": 842,
       "2026-02-09": 241,
       "2026-06-10": 461,
-      "2026-11-03": 1269,
+      "2026-11-04": 77,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -468,7 +469,7 @@
     "timeDay": 1290,
     "timeWeek": 1402,
     "timeMonth": 1294,
-    "timeYear": 1449,
+    "timeYear": 1450,
     "dailyMinutesDown": {
       "2025-11-17": 104,
       "2025-11-18": 814,
@@ -492,7 +493,7 @@
     "timeDay": 4217,
     "timeWeek": 2955,
     "timeMonth": 2414,
-    "timeYear": 1850,
+    "timeYear": 1852,
     "dailyMinutesDown": {
       "2025-11-17": 103,
       "2025-11-19": 672,
@@ -577,7 +578,7 @@
     "timeDay": 1156,
     "timeWeek": 1208,
     "timeMonth": 2474,
-    "timeYear": 2033,
+    "timeYear": 2035,
     "dailyMinutesDown": {
       "2025-11-07": 588,
       "2025-11-11": 30,
@@ -676,7 +677,7 @@
     "timeDay": 606,
     "timeWeek": 767,
     "timeMonth": 811,
-    "timeYear": 1028,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-11-17": 101,
       "2026-01-04": 204,
@@ -699,7 +700,7 @@
     "timeDay": 1564,
     "timeWeek": 1620,
     "timeMonth": 2637,
-    "timeYear": 2108,
+    "timeYear": 2110,
     "dailyMinutesDown": {
       "2025-11-07": 615,
       "2025-11-11": 29,
@@ -794,7 +795,7 @@
     "timeDay": 1173,
     "timeWeek": 1158,
     "timeMonth": 1230,
-    "timeYear": 1915,
+    "timeYear": 1916,
     "dailyMinutesDown": {
       "2025-11-12": 25,
       "2025-11-14": 46,
@@ -834,7 +835,7 @@
     "timeDay": 2711,
     "timeWeek": 777,
     "timeMonth": 739,
-    "timeYear": 961,
+    "timeYear": 962,
     "dailyMinutesDown": {}
   },
   {
@@ -843,16 +844,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/administracion.ucu.edu.ar.ico",
     "slug": "ucu-sig",
     "status": "down",
-    "uptime": "89.97%",
+    "uptime": "89.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.06%",
+    "uptimeYear": "55.01%",
     "time": 1290,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1419,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2025-11-10": 27,
       "2025-11-11": 50,
@@ -864,7 +865,8 @@
       "2026-03-02": 196,
       "2026-03-15": 24,
       "2026-05-16": 578,
-      "2026-11-03": 1270,
+      "2026-11-04": 78,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -1040,13 +1042,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.50%",
-    "time": 2631,
+    "time": 2622,
     "timeDay": 1956,
     "timeWeek": 1703,
     "timeMonth": 2671,
-    "timeYear": 2324,
+    "timeYear": 2325,
     "dailyMinutesDown": {
-      "2025-11-04": 16,
       "2025-11-05": 61,
       "2025-11-15": 27,
       "2025-11-18": 232,
@@ -1075,7 +1076,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accesois.ucu.edu.ar.ico",
     "slug": "ucu-acceso-is",
     "status": "down",
-    "uptime": "68.34%",
+    "uptime": "68.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1086,7 +1087,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 1270,
+      "2026-11-04": 78,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -1449,8 +1451,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   },
   {
@@ -1470,7 +1471,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 1270,
+      "2026-11-04": 78,
+      "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -1833,8 +1835,7 @@
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
-      "2025-11-05": 1440,
-      "2025-11-04": 1440
+      "2025-11-05": 1440
     }
   },
   {
@@ -1852,7 +1853,7 @@
     "timeDay": 939,
     "timeWeek": 893,
     "timeMonth": 964,
-    "timeYear": 1058,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2025-11-18": 189,
       "2025-12-05": 35,
@@ -1882,7 +1883,7 @@
     "timeDay": 498,
     "timeWeek": 653,
     "timeMonth": 658,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-11-28": 45,
       "2025-12-03": 37,
@@ -1930,7 +1931,7 @@
     "timeDay": 637,
     "timeWeek": 559,
     "timeMonth": 585,
-    "timeYear": 448,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2025-12-12": 27,
@@ -2075,7 +2076,7 @@
     "timeDay": 498,
     "timeWeek": 653,
     "timeMonth": 658,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-11-28": 45,
       "2025-12-03": 37,
@@ -2166,7 +2167,7 @@
     "timeDay": 965,
     "timeWeek": 1973,
     "timeMonth": 1638,
-    "timeYear": 1815,
+    "timeYear": 1816,
     "dailyMinutesDown": {
       "2025-11-18": 733,
       "2025-11-19": 1301,
@@ -2210,7 +2211,7 @@
     "timeDay": 749,
     "timeWeek": 994,
     "timeMonth": 931,
-    "timeYear": 1325,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2025-12-12": 24,
       "2025-12-23": 24,
@@ -2234,19 +2235,18 @@
     "url": "https://git.cdeluruguay.gob.ar/users/sign_in",
     "icon": "https://icons.duckduckgo.com/ip3/git.cdeluruguay.gob.ar.ico",
     "slug": "mcu-git-lab",
-    "status": "down",
-    "uptime": "97.40%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "97.99%",
+    "status": "up",
+    "uptime": "97.39%",
+    "uptimeDay": "82.77%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "97.94%",
     "time": 2016,
-    "timeDay": 769,
-    "timeWeek": 963,
-    "timeMonth": 1003,
-    "timeYear": 1439,
+    "timeDay": 836,
+    "timeWeek": 964,
+    "timeMonth": 1002,
+    "timeYear": 1436,
     "dailyMinutesDown": {
-      "2025-11-04": 25,
       "2025-11-05": 255,
       "2025-11-06": 240,
       "2025-11-18": 170,
@@ -2275,7 +2275,8 @@
       "2026-09-28": 421,
       "2026-10-06": 92,
       "2026-10-05": 182,
-      "2026-11-03": 3
+      "2026-11-04": 76,
+      "2026-11-03": 172
     }
   },
   {
@@ -2293,7 +2294,7 @@
     "timeDay": 672,
     "timeWeek": 2221,
     "timeMonth": 2066,
-    "timeYear": 3100,
+    "timeYear": 3099,
     "dailyMinutesDown": {
       "2025-11-13": 43,
       "2025-11-15": 28,
@@ -2322,7 +2323,7 @@
     "timeDay": 1774,
     "timeWeek": 1955,
     "timeMonth": 2072,
-    "timeYear": 3445,
+    "timeYear": 3449,
     "dailyMinutesDown": {
       "2025-12-05": 148,
       "2025-12-11": 274,
